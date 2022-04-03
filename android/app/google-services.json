@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517942069870",
+    "project_id": "chat-ynovb2",
+    "storage_bucket": "chat-ynovb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517942069870:android:71b037388706b00c0e747f",
+        "android_client_info": {
+          "package_name": "com.example.chatynovb2b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517942069870-1nvhjdjmpabpro6gk9g7hccqsegt1qtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIb6KDaEr0V0svYO6n1DplVWPUDt1MK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517942069870-1nvhjdjmpabpro6gk9g7hccqsegt1qtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
